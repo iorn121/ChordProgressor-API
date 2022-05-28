@@ -55,6 +55,7 @@ MIDDLEWARE = [
 
 CORS_ORIGIN_WHITELIST = [
     'http://localhost:3000',
+    'https://iorn121.github.io/ChordProgressor/',
 ]
 
 
